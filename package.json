@@ -1,0 +1,25 @@
+{
+  "name": "graph-printer",
+  "version": "1.0.0",
+  "description": "Graph-printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astroth1984/Graph-Printer.git"
+  },
+  "author": "Astroth1984",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astroth1984/Graph-Printer/issues"
+  },
+  "homepage": "https://github.com/Astroth1984/Graph-Printer#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.38.0"
+  }
+}
